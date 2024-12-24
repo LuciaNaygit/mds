@@ -59,11 +59,6 @@ En algunos estados como Guanajuato y Nuevo León, los programas de reinserción 
 
 ---
 
-## Imágenes Recomendadas
-
-1. Gráfico sobre la capacidad y población penitenciaria en México.
-2. Fotografías de talleres de reinserción laboral en penales mexicanos.
-
 ---
 
 ## Retos a Futuro

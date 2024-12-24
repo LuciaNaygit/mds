@@ -71,11 +71,6 @@ En Guanajuato, la implementación de drones para patrullajes ha permitido a las 
 
 ---
 
-## Imágenes Recomendadas
-
-1. Diagrama de un sistema de vigilancia integrado (cámaras, drones y C5).
-2. Representación gráfica de las aplicaciones de inteligencia artificial en seguridad pública.
-
 ---
 
 ## Futuro de la Tecnología y Seguridad en México

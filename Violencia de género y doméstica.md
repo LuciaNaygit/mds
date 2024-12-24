@@ -69,11 +69,6 @@ Iniciativas como campañas de sensibilización, capacitación de autoridades y p
 
 ---
 
-## Imágenes Recomendadas
-
-1. Gráfica o infografía sobre estadísticas de violencia de género en México.
-2. Mapa del país mostrando la incidencia de feminicidios por estado.
-
 ---
 
 ## Retos Persistentes

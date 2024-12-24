@@ -39,11 +39,6 @@ En este modelo, los cuerpos de seguridad trabajan en colaboración con la ciudad
 
 ---
 
-## Imágenes Recomendadas
-
-1. Grupos de vecinos en una reunión de vigilancia vecinal.
-2. Material gráfico de una campaña de denuncia anónima.
-
 ---
 
 ## Retos de la Participación Ciudadana

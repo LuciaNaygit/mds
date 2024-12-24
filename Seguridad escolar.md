@@ -28,13 +28,6 @@ La seguridad en las escuelas es un reflejo de los problemas sociales y estructur
 
 ---
 
-## Imágenes Recomendadas
-
-1. Estudiantes participando en simulacros de emergencia.
-2. Sistemas de vigilancia instalados en planteles escolares.
-
----
-
 ## Principales Retos
 
 ### 1. Bullying y Violencia Escolar

@@ -24,11 +24,6 @@ La ética en la seguridad pública no solo se refiere al cumplimiento de las ley
 
 ---
 
-## Imágenes Recomendadas
-
-1. Oficiales de seguridad pública participando en programas de formación ética.
-2. Campañas ciudadanas sobre derechos humanos y seguridad.
-
 ---
 
 ## Retos Éticos en la Seguridad Pública de México
